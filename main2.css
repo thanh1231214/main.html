@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: ;
+}
+.container{
+    width: 1000px;
+    margin: 0 auto;
+}
+.body{
+    width: 30%;
+    height: auto;
+}
+.header{
+    width: 1000px;
+    background: green;
+}
